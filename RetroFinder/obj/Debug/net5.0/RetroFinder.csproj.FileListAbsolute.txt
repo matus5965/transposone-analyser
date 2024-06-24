@@ -1,0 +1,15 @@
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW03\RetroFinder\bin\Debug\net5.0\RetroFinder.exe
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW03\RetroFinder\bin\Debug\net5.0\RetroFinder.deps.json
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW03\RetroFinder\bin\Debug\net5.0\RetroFinder.runtimeconfig.json
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW03\RetroFinder\bin\Debug\net5.0\RetroFinder.runtimeconfig.dev.json
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW03\RetroFinder\bin\Debug\net5.0\RetroFinder.dll
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW03\RetroFinder\bin\Debug\net5.0\RetroFinder.pdb
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW03\RetroFinder\obj\Debug\net5.0\RetroFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW03\RetroFinder\obj\Debug\net5.0\RetroFinder.AssemblyInfoInputs.cache
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW03\RetroFinder\obj\Debug\net5.0\RetroFinder.AssemblyInfo.cs
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW03\RetroFinder\obj\Debug\net5.0\RetroFinder.csproj.CoreCompileInputs.cache
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW03\RetroFinder\obj\Debug\net5.0\RetroFinder.dll
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW03\RetroFinder\obj\Debug\net5.0\refint\RetroFinder.dll
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW03\RetroFinder\obj\Debug\net5.0\RetroFinder.pdb
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW03\RetroFinder\obj\Debug\net5.0\RetroFinder.genruntimeconfig.cache
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW03\RetroFinder\obj\Debug\net5.0\ref\RetroFinder.dll

@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|c:\\users\\matus\\onedrive\\desktop\\school\\pv178-cs\\hws\\hw03\\retrofinder\\domains\\domainpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\domains\\domainpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\retrofinder\\output\\outputtransposon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\output\\outputtransposon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|c:\\users\\matus\\onedrive\\desktop\\school\\pv178-cs\\hws\\hw03\\retrofinder\\output\\xmlserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\output\\xmlserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|c:\\users\\matus\\onedrive\\desktop\\school\\pv178-cs\\hws\\hw03\\retrofinder\\data\\test_sequence_1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\data\\test_sequence_1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|c:\\users\\matus\\onedrive\\desktop\\school\\pv178-cs\\hws\\hw03\\retrofinder\\domains\\domainfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\domains\\domainfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\retrofinder\\retrofinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\retrofinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\retrofinder\\data\\test_sequence_1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\data\\test_sequence_1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\retrofinder\\output\\jsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\output\\jsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\retrofinder\\data\\test_sequence.fa||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\data\\test_sequence.fa||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\retrofinder\\sequenceanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\sequenceanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\retrofinder\\output\\iomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\output\\iomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\retrofinder\\output\\serializationoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\output\\serializationoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matus\\OneDrive\\Desktop\\res\\test_one\\test_sequence_one.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\retrofinder\\data\\test_sequence2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\data\\test_sequence2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matus\\OneDrive\\Desktop\\res\\test_three\\test_sequence_three.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\retrofinder\\data\\seq_gen.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\data\\seq_gen.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\retrofinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\retrofinder\\fastautils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\fastautils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\retrofinder\\models\\domaindatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C895C5B4-56AB-43E7-AE08-F5EB51CED96D}|RetroFinder\\RetroFinder.csproj|solutionrelative:retrofinder\\models\\domaindatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DomainPicker.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Domains\\DomainPicker.cs",
+              "RelativeDocumentMoniker": "RetroFinder\\Domains\\DomainPicker.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Domains\\DomainPicker.cs",
+              "RelativeToolTip": "RetroFinder\\Domains\\DomainPicker.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:53:03.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XMLSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Output\\XMLSerializer.cs",
+              "RelativeDocumentMoniker": "RetroFinder\\Output\\XMLSerializer.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Output\\XMLSerializer.cs",
+              "RelativeToolTip": "RetroFinder\\Output\\XMLSerializer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:52:34.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test_sequence_1.xml",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Data\\test_sequence_1.xml",
+              "RelativeDocumentMoniker": "RetroFinder\\Data\\test_sequence_1.xml",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Data\\test_sequence_1.xml",
+              "RelativeToolTip": "RetroFinder\\Data\\test_sequence_1.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-11T12:51:56.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "test_sequence.fa",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Data\\test_sequence.fa",
+              "RelativeDocumentMoniker": "RetroFinder\\Data\\test_sequence.fa",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Data\\test_sequence.fa",
+              "RelativeToolTip": "RetroFinder\\Data\\test_sequence.fa",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-22T23:45:58.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOManager.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Output\\IOManager.cs",
+              "RelativeDocumentMoniker": "RetroFinder\\Output\\IOManager.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Output\\IOManager.cs",
+              "RelativeToolTip": "RetroFinder\\Output\\IOManager.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAwIIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:36:41.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SequenceAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\SequenceAnalysis.cs",
+              "RelativeDocumentMoniker": "RetroFinder\\SequenceAnalysis.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\SequenceAnalysis.cs",
+              "RelativeToolTip": "RetroFinder\\SequenceAnalysis.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:32:36.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JSONSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Output\\JSONSerializer.cs",
+              "RelativeDocumentMoniker": "RetroFinder\\Output\\JSONSerializer.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Output\\JSONSerializer.cs",
+              "RelativeToolTip": "RetroFinder\\Output\\JSONSerializer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:17:13.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RetroFinder.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\RetroFinder.cs",
+              "RelativeDocumentMoniker": "RetroFinder\\RetroFinder.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\RetroFinder.cs",
+              "RelativeToolTip": "RetroFinder\\RetroFinder.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwB0AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:43:44.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutputTransposon.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Output\\OutputTransposon.cs",
+              "RelativeDocumentMoniker": "RetroFinder\\Output\\OutputTransposon.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Output\\OutputTransposon.cs",
+              "RelativeToolTip": "RetroFinder\\Output\\OutputTransposon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:53:59.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "test_sequence_one.json",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\res\\test_one\\test_sequence_one.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\res\\test_one\\test_sequence_one.json",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\res\\test_one\\test_sequence_one.json",
+              "RelativeToolTip": "..\\..\\..\\..\\res\\test_one\\test_sequence_one.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T15:08:57.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DomainFinder.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Domains\\DomainFinder.cs",
+              "RelativeDocumentMoniker": "RetroFinder\\Domains\\DomainFinder.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Domains\\DomainFinder.cs",
+              "RelativeToolTip": "RetroFinder\\Domains\\DomainFinder.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAYwHMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:43:16.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "test_sequence_1.json",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Data\\test_sequence_1.json",
+              "RelativeDocumentMoniker": "RetroFinder\\Data\\test_sequence_1.json",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Data\\test_sequence_1.json",
+              "RelativeToolTip": "RetroFinder\\Data\\test_sequence_1.json",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T21:50:11.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SerializationOutput.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Output\\SerializationOutput.cs",
+              "RelativeDocumentMoniker": "RetroFinder\\Output\\SerializationOutput.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Output\\SerializationOutput.cs",
+              "RelativeToolTip": "RetroFinder\\Output\\SerializationOutput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:38:23.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Program.cs",
+              "RelativeDocumentMoniker": "RetroFinder\\Program.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Program.cs",
+              "RelativeToolTip": "RetroFinder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T20:49:47.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "test_sequence_three.json",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\res\\test_three\\test_sequence_three.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\res\\test_three\\test_sequence_three.json",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\res\\test_three\\test_sequence_three.json",
+              "RelativeToolTip": "..\\..\\..\\..\\res\\test_three\\test_sequence_three.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T14:30:30.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "test_sequence2.txt",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Data\\test_sequence2.txt",
+              "RelativeDocumentMoniker": "RetroFinder\\Data\\test_sequence2.txt",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Data\\test_sequence2.txt",
+              "RelativeToolTip": "RetroFinder\\Data\\test_sequence2.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-22T23:16:48.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "seq_gen.py",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Data\\seq_gen.py",
+              "RelativeDocumentMoniker": "RetroFinder\\Data\\seq_gen.py",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Data\\seq_gen.py",
+              "RelativeToolTip": "RetroFinder\\Data\\seq_gen.py",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-24T14:23:29.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FastaUtils.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\FastaUtils.cs",
+              "RelativeDocumentMoniker": "RetroFinder\\FastaUtils.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\FastaUtils.cs",
+              "RelativeToolTip": "RetroFinder\\FastaUtils.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:49:46.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DomainDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Models\\DomainDatabase.cs",
+              "RelativeDocumentMoniker": "RetroFinder\\Models\\DomainDatabase.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\HWs\\HW03\\RetroFinder\\Models\\DomainDatabase.cs",
+              "RelativeToolTip": "RetroFinder\\Models\\DomainDatabase.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAMwBUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:27:05.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

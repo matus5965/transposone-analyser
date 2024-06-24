@@ -1,0 +1,76 @@
+{
+  "Transposons": [
+    {
+      "Start": 131,
+      "End": 3760,
+      "Features": [
+        {
+          "Type": "LTRLeft",
+          "Start": 131,
+          "End": 352
+        },
+        {
+          "Type": "GAG",
+          "Start": 369,
+          "End": 1322
+        },
+        {
+          "Type": "PROT",
+          "Start": 1339,
+          "End": 1590
+        },
+        {
+          "Type": "INT",
+          "Start": 1608,
+          "End": 2278
+        },
+        {
+          "Type": "RT",
+          "Start": 2296,
+          "End": 3101
+        },
+        {
+          "Type": "RH",
+          "Start": 3118,
+          "End": 3522
+        },
+        {
+          "Type": "LTRRight",
+          "Start": 3539,
+          "End": 3760
+        }
+      ]
+    },
+    {
+      "Start": 3827,
+      "End": 6484,
+      "Features": [
+        {
+          "Type": "LTRLeft",
+          "Start": 3827,
+          "End": 4032
+        },
+        {
+          "Type": "GAG",
+          "Start": 4051,
+          "End": 4994
+        },
+        {
+          "Type": "RT",
+          "Start": 5035,
+          "End": 5834
+        },
+        {
+          "Type": "RH",
+          "Start": 5859,
+          "End": 6262
+        },
+        {
+          "Type": "LTRRight",
+          "Start": 6279,
+          "End": 6484
+        }
+      ]
+    }
+  ]
+}
